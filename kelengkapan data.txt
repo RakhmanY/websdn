@@ -1,0 +1,10 @@
+Ketahui Informasi Penting yang Wajib Ada di Dalam Website Sekolah
+Informasi penting yang perlu ada di dalam website sekolah di antaranya meliputi:
+
+Profil Sekolah
+Informasi Alamat dan Kontak
+Database Siswa
+Database Guru dan Karyawan
+Fasilitas Sekolah
+Daftar Kegiatan Siswa
+Informasi Pengumuman Penting
